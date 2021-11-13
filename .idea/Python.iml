@@ -6,7 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/Velocity calc/venv" />
       <excludeFolder url="file://$MODULE_DIR$/Feet to inches calc/venv" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.9" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

@@ -1,6 +1,7 @@
 import math
 
 
+# Performs calculation
 def data():
     height = input("Enter your height in inches: ")
     weight = input("Enter your weight in lbs: ")
@@ -20,6 +21,7 @@ def data():
     print("You are " + status)
 
 
+# restarts the calc
 def retry():
     redo = input("Enter y to continue: ")
     if redo == "y":
@@ -28,6 +30,7 @@ def retry():
         print("Have a nice day!")
 
 
+# allows looping to work
 def beginning():
     data()
     retry()
